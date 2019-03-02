@@ -1,2 +1,2 @@
-# readyshell
+# ReadyShell
 Linux shell commands
