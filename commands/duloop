@@ -1,0 +1,1 @@
+while ((1)); do echo `du -sh` `date '+%H:%M:%S %Y-%m-%d'`; sleep 1s; done
