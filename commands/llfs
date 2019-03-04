@@ -1,0 +1,1 @@
+ls -l -S --color=always `find -maxdepth 1 -type f` | awk '{print $5 "\t" $9}'
