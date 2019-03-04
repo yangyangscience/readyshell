@@ -1,0 +1,1 @@
+du -h `ls -p` | sort -k 1 -h
